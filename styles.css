@@ -13,3 +13,8 @@ img {
   border-radius: 50%;
   width: 300px;
 }
+
+h1,
+h2 {
+  color: rgb(80, 79, 79);
+}
