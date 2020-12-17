@@ -38,13 +38,11 @@ const Card = () => {
   <article class="card__back card--hidden">
     <div>
       <p class="card__text">
-        Some time ago, I've decided to learn how to code.
+        Some time ago I fell in love with HTML and CSS.
       </p>
       <p class="card__text">
-        I attended several one-day workshops and in December 2020, I completed Digital Web Academy in Czechitas - three-months intensive course for front-end developers (HTML, CSS, Bootstrap, JavaScript, React). 
-      <p class="card__text">
-        You can take a look at my final project 
-        <a class="card__project-link" href="https://mami-kam-jdem.netlify.app/" target="_blank">"Mom, where are we going?"</a>
+      During maternity leave I've learned to create websites using HTML, CSS and Bootstrap. In December 2020 I graduated Digital Web Academy in Czechitas - three-months intensive course for front-end developers (HTML, CSS, Bootstrap, JavaScript, React). Take a look at my final project 
+        <a class="card__project-link" href="https://mami-kam-jdem.netlify.app/" target="_blank">Mum, where are we going?</a>
       </p>
     </div>
     <button class="card__button">Back to profile</button>

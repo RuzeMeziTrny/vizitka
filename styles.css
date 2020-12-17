@@ -103,15 +103,13 @@ body {
 }
 
 .card__project-link {
-  /* text-decoration: none; */
   color: #2099dd;
-}
-
-.card__project-link:hover,
-.card__project-link:focus {
-  color: #1db8e3;
 }
 
 .card__project-link:visited {
   color: #0cdde2;
+}
+
+.card__project-link:hover {
+  color: #1db8e3;
 }
