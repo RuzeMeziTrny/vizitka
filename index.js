@@ -25,10 +25,10 @@ const Card = () => {
     <h1 class="card__heading">Ivana Růžičková</h1>
     <img class="card__photo" src="foto.jpeg" alt="fotka Ivana">
     <div class="card__logos">
-      <a href="https://www.linkedin.com/in/ivanaruzickova/"  target="_blank"> 
+      <a href="https://www.linkedin.com/in/ivanaruzickova/" target="_blank"> 
         <img class="card__logo" src="logo-LI.png" alt="logo LinkedIn">
       </a>
-      <a href="https://github.com/RuzeMeziTrny"  target="_blank"> 
+      <a href="https://github.com/RuzeMeziTrny" target="_blank"> 
         <img class="card__logo" src="logo-GH.png" alt="logo GitHub">
       </a>
     </div>
@@ -41,7 +41,7 @@ const Card = () => {
         Some time ago I fell in love with HTML and CSS.
       </p>
       <p class="card__text">
-      During maternity leave I've learned to create websites using HTML, CSS and Bootstrap. In December 2020 I graduated Digital Web Academy in Czechitas - three-months intensive course for front-end developers (HTML, CSS, Bootstrap, JavaScript, React). Take a look at my final project 
+      During maternity leave I've learned to create websites using HTML, CSS, Bootstrap. Recently I graduated Digital Web Academy in Czechitas - three-month intensive course for front-end web developers (HTML, CSS, Bootstrap, but mainly JavaScript and React). Take a look at my final project 
         <a class="card__project-link" href="https://mami-kam-jdem.netlify.app/" target="_blank">Mum, where are we going?</a>
       </p>
     </div>

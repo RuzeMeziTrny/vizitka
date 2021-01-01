@@ -102,12 +102,12 @@ body {
   transition-property: width;
 }
 
-.card__project-link {
-  color: #2099dd;
+.card__text {
+  text-align: justify;
 }
 
-.card__project-link:visited {
-  color: #0cdde2;
+.card__project-link {
+  color: #2099dd;
 }
 
 .card__project-link:hover {
